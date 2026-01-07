@@ -35,3 +35,6 @@ Key Insights
 - Top State: Maharashtra.
 - Main Channel: Amazon (35% of orders).
 
+Final Insights
+To increase revenue, Vrinda Store should target Women customers aged 30-49 living in Maharashtra, Karnataka, and Uttar Pradesh by showing them ads for Sets and Kurtas on Amazon, Myntra, and Flipkart.
+
