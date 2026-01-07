@@ -7,13 +7,13 @@ The primary objective of the project is to analyze a dataset of over 31,000 tran
 - <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset<a/>
 
 Questions (KPIs)
-Compare the sales and orders using single chart.
-Which month got the highest sales and orders?
-Who purchased more - Men or Women?
-What are different order status in 2022?
-List top 10 states contributingto the sales?
-Relation between age and gender based on number of orders.
-Which Channel is contributing maximum to the sales?
-Highest selling category?
-Percentage of Total Orders delivered
-Dashboard Interaction View Dashboard
+- Compare the sales and orders using single chart.
+- Which month got the highest sales and orders?
+- Who purchased more - Men or Women?
+- What are different order status in 2022?
+- List top 10 states contributingto the sales?
+- Relation between age and gender based on number of orders.
+- Which Channel is contributing maximum to the sales?
+- Highest selling category?
+- Percentage of Total Orders delivered
+- Dashboard Interaction View Dashboard
