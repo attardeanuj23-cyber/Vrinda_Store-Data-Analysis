@@ -16,7 +16,7 @@ Questions (KPIs)
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction View Dashboard
+- Dashboard Interaction https://github.com/attardeanuj23-cyber/Vrinda_Store-Data-Analysis/blob/main/Screenshot%202026-01-07%20135927.png View Dashboard
 
 Process
 - Verify data for any missing values and anomalies, and sort out the same.
