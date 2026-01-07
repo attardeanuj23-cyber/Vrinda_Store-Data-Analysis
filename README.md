@@ -26,3 +26,5 @@ Process
 
 Dashboard
 
+<img width="967" height="404" alt="Screenshot 2026-01-07 135927" src="https://github.com/user-attachments/assets/248e03a6-e991-497d-b250-70eafcd40b27" />
+
